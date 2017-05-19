@@ -1,11 +1,11 @@
 {
-  "name": "lato",
-  "version": "0.3.0",
+  "name": "@d3banking/lato",
+  "version": "1.0.0",
   "description": "Lato Web Font Package",
-  "main": "Gruntfile.js",
+  "style": "css/lato.css",
   "repository": {
     "type": "git",
-    "url": "https://mrkelly@github.com/mrkelly/lato.git"
+    "url": "https://github.com/LodoSoftware/lato.git"
   },
   "keywords": [
     "lato",
@@ -24,20 +24,9 @@
     "font"
   ],
   "author": "Michael Kelly <michael@mikeryankelly.com>",
-  "licenses": [
-    {
-      "covers": "software",
-      "type": "MIT",
-      "url": "http://opensource.org/licenses/MIT"
-    },
-    {
-      "covers": "fonts",
-      "type": "OFL-1.1",
-      "url": "http://scripts.sil.org/OFL"
-    }
-  ],
+  "license": "MIT AND OFL-1.1",
   "bugs": {
-    "url": "https://github.com/mrkelly/lato/issues"
+    "url": "https://github.com/LodoSoftware/lato/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

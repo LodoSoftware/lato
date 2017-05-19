@@ -5,7 +5,7 @@ module.exports = function (grunt) {
 
     clean: {
       css: ['css'],
-      temp: ['temp.css']
+      temp: ['temp.css', 'temp.css.map']
     },
 
     less:{
