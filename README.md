@@ -4,9 +4,9 @@ Lato web font package with font files, less, scss, and CSS.  Why? Because Google
 
 ## Use ##
 
-1. Use Bower to install the lato package
+1. Use NPM to install the lato package
   ```sh
-  bower install lato --save
+  npm install @d3banking/lato --save
   ```
 
 2. Import the lato.less, lato.scss or lato.css file into your project
@@ -20,7 +20,7 @@ Lato web font package with font files, less, scss, and CSS.  Why? Because Google
   @import: "../some/path/lato/scss/lato";
   ```
 
-3. Override the Lato font path if nessesary 
+3. Override the Lato font path if nessesary
   ```less
   @lato-font-path: '../font';
   ```
@@ -45,34 +45,30 @@ Lato is a trademark of tyPoland Lukasz Dziedzic.
 Lukasz Dziedzic
 
 * **Designer**
-URL: http://www.latofonts.com/team/
+URL: [http://www.latofonts.com/team/](http://www.latofonts.com/team/)
 
 * **Vendor**
 tyPoland Lukasz Dziedzic
 
 * **Vendor URL**
-http://www.latofonts.com/
+[http://www.latofonts.com/](http://www.latofonts.com/)
 
 
 ## Development Info ##
-* Homepage: https://github.com/mrkelly/lato
-* Repo: https://github.com/mrkelly/lato
+* Homepage: [https://github.com/LodoSoftware/lato](https://github.com/LodoSoftware/lato)
+* Repo: [https://github.com/LodoSoftware/lato](https://github.com/LodoSoftware/lato)
 
 ## Contributors ##
 * [Mike Kelly](https://github.com/mrkelly)
 * [Julian Dreissig](https://github.com/thirtified)
 
-## Change Log ##
-### 0.2.0 ###
- * Added SCSS
-
 ## License ##
 
 Software: Licenced under the MIT License (MIT)
 
-  http://opensource.org/licenses/MIT
+  [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
 
 Fonts: Licensed under version 1.1 of the SIL Open Font License
 
-  http://scripts.sil.org/OFL
+  [http://scripts.sil.org/OFL](http://scripts.sil.org/OFL)
 
